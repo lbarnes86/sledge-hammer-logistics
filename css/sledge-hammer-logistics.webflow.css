@@ -1380,6 +1380,12 @@ p {
   height: 100px;
   margin-bottom: 20px;
 }
+.feature-image-1 {
+  width: 45px;
+  height: 45px;
+  /* margin-bottom: -10px; */
+  
+}
 
 .feature-image.career {
   width: 50px;
